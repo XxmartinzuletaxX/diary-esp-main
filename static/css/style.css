@@ -22,8 +22,8 @@ body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     line-height: 20px;
-    background-color: #0F172A;
-    color: #F8FAFC;
+    background-color: #172852;
+    color: #c3d7eb;
 }
 
 h1, h2, p {
@@ -97,7 +97,7 @@ ul {
 }
 
 .card__text {
-    border-top: 1px solid rgba(14, 165, 233, 1);
+    border-top: 1px solid rgb(8, 78, 110);
     width: inherit;
     display: flex;
     padding: 50px 0 20px;
@@ -131,7 +131,7 @@ ul {
 
 .card--creat:hover,
 .card:hover {
-    box-shadow: 0px 4px 10px rgba(14, 165, 233, 1);
+    box-shadow: 0px 4px 10px rgb(57, 145, 185);
 }
 
 .creat-form {
@@ -150,7 +150,7 @@ ul {
     gap: 30px;
     flex-direction: column;
     align-items: center;
-    background: rgba(30, 41, 59, 0.4);
+    background: rgba(70, 97, 139, 0.4);
     border-radius: 20px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
@@ -172,7 +172,7 @@ ul {
     border-radius: 10px;
     padding: 10px;
     height: 30px;
-    color: #F8FAFC;
+    color: #b8d7f7;
     font: inherit;
     border: none;
     width: 94%;
@@ -193,7 +193,7 @@ ul {
 }
 
 .form__button {
-    border: 1px solid rgba(14, 165, 233, 1);
+    border: 1px solid rgb(7, 46, 65);
     background: #0F172A;
     border-radius: 10px;
     color: rgba(14, 165, 233, 1);
@@ -206,7 +206,7 @@ ul {
 }
 
 .form__button:hover {
-    color: #F8FAFC;
+    color: #cbdcee;
     background:  rgba(14, 165, 233, 1);
 }
 
